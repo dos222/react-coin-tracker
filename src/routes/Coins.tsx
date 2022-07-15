@@ -90,7 +90,7 @@ function Coins() {
         <Btn onClick={themeSet}/>
       </Nav>
       <Header >
-        <Title>코인</Title>
+        <Title>Coins</Title>
       </Header>
       {isLoading ? (
         <Loader>Loading...</Loader>
